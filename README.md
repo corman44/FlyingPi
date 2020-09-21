@@ -1,4 +1,4 @@
-# Put stuff here that mentions things about us
+# Put stuff here that mentions things about this project
 
 ## Firebase Documentation
 - Rest API: https://firebase.google.com/docs/database/rest/start
